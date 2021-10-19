@@ -1,0 +1,10 @@
+    modLoader="javafml"
+    loaderVersion="[34,)"
+    showAsResourcePack=false
+    license="All rights reserved"
+
+    [[mods]]
+      modId="signreader"
+      version="1.0"
+      displayName="Sign Reader"
+      authors="lightskinche"
