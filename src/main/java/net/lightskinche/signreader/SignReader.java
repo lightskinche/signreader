@@ -37,7 +37,7 @@ public class SignReader
 	public static final String MOD_ID = "signreader";
 	
 	@SubscribeEvent
-	public static void onWorldTick(TickEvent.WorldTickEvent event)
+	public static void onClientTick(TickEvent.ClientTickEvent event)
 	{
 		Minecraft client = Minecraft.getInstance();
 		try 
